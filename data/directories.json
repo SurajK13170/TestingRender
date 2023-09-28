@@ -1,0 +1,6 @@
+{
+    "blogs": {
+        "thumbnail": "/public/blog",
+        "image": "/private"
+    }
+}
